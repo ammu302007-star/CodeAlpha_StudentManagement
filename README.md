@@ -1,6 +1,6 @@
 # CodeAlpha Student Management System
 
-A menu-driven Student Management System in C developed as part of the CodeAlpha C Programming Internship.
+A menu-driven Student Management System in C.
 
 The project uses structures and file handling to store student records permanently.
 
@@ -59,4 +59,4 @@ This project implements the CodeAlpha Student Management System task using struc
 
 ## Author
 
-Developed as part of the CodeAlpha C Programming Internship.
+Developed using C programming, structures, and file handling.
